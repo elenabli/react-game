@@ -1,0 +1,9 @@
+.table {
+  display: flex;
+  justify-content: space-around;
+  box-shadow: 3px 3px 10px lightgrey, -3px 3px 10px lightgrey;
+  width: 600px;
+  height: 50%;
+  background-color: ivory;
+ }
+ 
